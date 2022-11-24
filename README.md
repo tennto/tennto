@@ -1,55 +1,39 @@
-<!--
-## 👋 Welcome tennto's github &nbsp;&nbsp;
--->    
- 
-   <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftennto&count_bg=%235C6BC0&title_bg=%23B8BEEF&icon=smugmug.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-  ![followers](https://img.shields.io/github/followers/tennto?style=social)
-	
-  </div>
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=sihoonKim&fontSize=70&animation=twinkling)
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b><br></h3>
-<h5 align="center">Techs that I've used at least once</h5>
-<p align="center"> 
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a> &nbsp 
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> &nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/></a> &nbsp
+<p align="center">🇰🇷  🌱  🎨</p>
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center"> Techs that I've used at least once </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/React-37d7f0?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+  <br>
+</p>
 
 <br>
 
-<div align=center>
-	
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tennto&show_icons=true&theme=graywhite)](https://github.com/tennto/github-readme-stats)
-	
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tennto&layout=compact)
-	
-  </div>
-<!--
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lizze1221)](https://solved.ac/lizze1221)
-![ahra1221's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ahra1221&layout=compact&theme=graywhite)
+<h3 align="center">🪄 Blog 🪄</h3>
+
+<div align="center" style="text-align:center">
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uooee8633)](https://velog.io/@uooee8633)
+</div>
+  
 <br>
 
-👑 BOJ Tier <br><br>
 
+<h3 align="center"> 😁 Me </h3>
+<p align="center">
+  <a href="https://velog.io/@uooee8633"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/uoo338633"/></a>&nbsp
+  <a href="https://www.instagram.com/earttheo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/earttheo/"/></a>&nbsp
+</p>
+<br>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lizze1221)](https://solved.ac/lizze1221)
- -->
-<!--
-**ahra1221/ahra1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftennto&count_bg=%237DFC5D&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
