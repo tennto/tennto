@@ -4,7 +4,7 @@
  
    <div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiovannijunseokim&count_bg=%235C6BC0&title_bg=%23B8BEEF&icon=smugmug.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftennto&count_bg=%235C6BC0&title_bg=%23B8BEEF&icon=smugmug.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   ![followers](https://img.shields.io/github/followers/tennto?style=social)
 	
   </div>
@@ -24,7 +24,7 @@
 
 <div align=center>
 	
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tennto&show_icons=true&theme=graywhite)](https://github.com/tennto/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Seonung&show_icons=true&theme=graywhite)](https://github.com/tennto/github-readme-stats)
 	
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tennto&layout=compact)
 	
