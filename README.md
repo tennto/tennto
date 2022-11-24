@@ -24,7 +24,7 @@
 
 <div align=center>
 	
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Seonung&show_icons=true&theme=graywhite)](https://github.com/tennto/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tennto&show_icons=true&theme=graywhite)](https://github.com/tennto/github-readme-stats)
 	
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tennto&layout=compact)
 	
