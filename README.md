@@ -21,7 +21,9 @@
 <h3 align="center">🪄 Blog 🪄</h3>
 
 <div align="center" style="text-align:center">
+  
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uooee8633)](https://velog.io/@uooee8633)
+  
 </div>
   
 <br>
